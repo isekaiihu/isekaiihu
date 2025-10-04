@@ -7,6 +7,9 @@
 - 📫 **How to reach me:** play.soulduel.org@gmail.com
 - 😄 **Pronouns:** He / Him
 - ⚡ **Fun fact:** I love minecraft server development
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=isekaiihu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!-- Snake Game Repo View -->
 <div align="center">
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
@@ -22,9 +25,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=isekaiihu&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=isekaiihu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=isekaiihu&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=isekaiihu&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
