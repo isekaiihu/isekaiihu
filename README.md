@@ -2,8 +2,6 @@
 
 - 🔭 **I’m currently working on:** SoulDuel
 - 🌱 **I’m currently learning:** Skript, Kotlin
-- 🤔 **I’m looking for help with:** Minecraft Server Development
-- 💬 **Ask me about:** Collaboration, Dev Support
 - 📫 **How to reach me:** play.soulduel.org@gmail.com
 - 😄 **Pronouns:** He / Him
 - ⚡ **Fun fact:** I love minecraft server development
